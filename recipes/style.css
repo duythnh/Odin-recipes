@@ -1,0 +1,14 @@
+* {
+  background-color: #eae6dc;
+}
+
+p {
+  font-family: "Atlas Grotesk", "Zen Kaku Gothic New", sans-serif;
+  
+}
+
+.direction_steps {
+    list-style: none;
+    font-size: 20px;
+    font-weight: bold;
+}
